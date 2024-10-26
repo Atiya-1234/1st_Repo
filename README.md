@@ -1,5 +1,4 @@
 # 1st_Repo
 This is my first Git Repo.
-<b>
-<b>
+<br>
 Author- Atiya Siddiqui!!!
